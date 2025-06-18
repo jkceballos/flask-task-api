@@ -7,7 +7,7 @@ Demo de CI/CD usando:
 - Sentry
 - Zenhub (gestión de issues)
 
-## 🔧 Instalación local
+## Instalación local
 
 ```bash
 git clone https://github.com/tu_usuario/flask-task-api.git
